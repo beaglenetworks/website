@@ -2,122 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Stop managing your cap table in a spreadsheet
 
-[Link to another page](./another-page.html).
+Beagle Networks cap table management software updates automatically when you issue electronic securities, raise a round, or get a valuation. So you can always trust Beagle Networks as your source of truth for equity information.
 
-There should be whitespace between paragraphs.
+## Cap Table Management
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Easy to manage
 
-# Header 1
+Never worry about out-of-date or incorrect spreadsheets. Beagle Networks’ cap tables update in real time, so you don’t waste time on manual updates.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Shared access
 
-## Header 2
+Share your cap table with your legal team and investors, and set permissions to keep information secure. When you fundraise, need a valuation, have an M&A event, or IPO, no one will have to clean up or prep your cap table — the final version will be in Carta and ready to go.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Equity Reporting
 
-### Header 3
+### Auditor-ready expense accounting
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+With your cap table on Beagle Networks, you can pull reports any time. The reports are auditor-ready and include all formulas.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Prep for your next round
 
-#### Header 4
+Beagle Networks gives you a better understanding of how fundraising will impact dilution and payouts. Create round-modeling worksheets, pro-forma cap tables, and detailed waterfall payouts right in our platform.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Contact
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Please contact [hi@beaglenetworks.io](mailto:hi@beaglenetworks.io)
